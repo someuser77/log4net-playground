@@ -1,4 +1,6 @@
 log4net-playground
 ==================
 
-A sample project pre configured for log4net debugging. Ususful for simple testing/troubleshooting.
+A sample project pre configured for log4net debugging. 
+
+Ususful for simple testing and troubleshooting.
