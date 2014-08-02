@@ -15,6 +15,7 @@ build/
 bld/
 [Bb]in/
 [Oo]bj/
+log4net-1.2.13/build/
 
 # MSTest test Results
 [Tt]est[Rr]esult*/
